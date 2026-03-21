@@ -53,7 +53,7 @@ Software desktop per **stimare l'importo della bolletta elettrica** a partire da
 
 ```bash
 # Clona il repository
-git clone https://github.com/TUO_UTENTE/Calcolobolletta.git
+git clone https://github.com/franknatale80/Calcolobolletta.git
 cd Calcolobolletta
 
 # Installa le dipendenze

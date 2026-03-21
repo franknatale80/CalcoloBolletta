@@ -1,0 +1,35 @@
+{
+    "materia": {
+        "quota_fissa_mese": 6.1,
+        "prezzo_materia_kwh": 0.09,
+        "prezzo_disp_kwh": 0.021243
+    },
+    "trasporto": {
+        "quota_energia_kwh": 0.0119,
+        "quota_fissa_mese": 1.92,
+        "quota_potenza_kw_mese": 1.96,
+        "uc3_kwh": 0.00276,
+        "uc6_fisso_kw_mese": 0.016567,
+        "uc6_var_kwh": 7e-05
+    },
+    "oneri": {
+        "arim_kwh": 0.001638,
+        "asos_kwh": 0.028657,
+        "quota_fissa_mese": 0.0,
+        "quota_potenza_kw_mese": 0.0
+    },
+    "imposte": {
+        "accisa_kwh": 0.0227,
+        "accisa_kwh_max": 25.0,
+        "iva": 0.1,
+        "residenti": true,
+        "soglia_esenzione_kwh_mese": 150.0,
+        "coeff_perdite": 0.105
+    },
+    "materia_oraria": {
+        "abilitato": false,
+        "prezzo_F1": 0.2,
+        "prezzo_F2F3": 0.15
+    },
+    "bonus_sociale_mese": -62.16
+}

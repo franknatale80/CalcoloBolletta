@@ -59,7 +59,7 @@ cd Calcolobolletta
 pip install pdfplumber
 
 # Avvia l'applicazione
-python bolletta3.py
+python bolletta.py
 ```
 
 ### Opzione 3: Build dell'eseguibile
@@ -174,7 +174,7 @@ Le piccole differenze sono dovute ad arrotondamenti riga per riga e ad eventuali
 
 ```
 Calcolobolletta/
-├── bolletta3.py               # Applicazione principale (GUI + logica)
+├── bolletta.py                 # Applicazione principale (GUI + logica)
 ├── config_bolletta.json        # Parametri tariffari
 ├── CalcoloBolletta.spec        # Configurazione PyInstaller
 ├── CalcoloBolletta_setup.iss   # Script Inno Setup (installer Windows)

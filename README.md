@@ -82,7 +82,7 @@ Per creare un **installer Windows** (setup autoestraente), installa [Inno Setup]
 
 ### Calcolo rapido
 
-1. Inserisci il consumo mensile in **kWh** (lo trovi nella bolletta alla voce "Consumo fatturato")
+1. Inserisci il consumo mensile in **kWh**
 2. Verifica che la **potenza impegnata** sia corretta (default: 3 kW)
 3. Seleziona/deseleziona il **bonus sociale**
 4. Premi **Calcola** (o `Invio`)

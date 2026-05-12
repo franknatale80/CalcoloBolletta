@@ -11,7 +11,7 @@ Software desktop per **stimare l'importo della bolletta elettrica** a partire da
 
 ## 📸 Screenshot
 
-(screenshot.png)
+![Screenshot](screenshot.png)
 
 ---
 
